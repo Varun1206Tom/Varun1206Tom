@@ -14,7 +14,10 @@ Payments: CCAvenue, Razorpay, Cashfree
 Tools: Git, GitHub, VS Code, Postman
 Other: Google Maps API, REST APIs, Figma
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=Varun1206Tom&show_icons=true&theme=default" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun1206Tom&layout=compact" height="160"/> </p>
+<p>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Varun1206Tom&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Varun1206Tom&layout=compact" height="160"/>
+</p>
 
 📫 Contact Me - 
 📧 varunrameshjangale93@gmail.com
