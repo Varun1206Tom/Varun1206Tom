@@ -1,5 +1,4 @@
 👋Hi, I'm Varun Jangale
-
 Frontend Developer | React.js & Angular
 I’m a Frontend Developer specializing in React.js, Angular 14, and modern UI frameworks. I build responsive, scalable, and clean user interfaces with a focus on performance and usability.
 I’ve worked on admin panels, e-commerce platforms, SPAs, real-time features, vendor dashboards, and payment gateway integrations.
