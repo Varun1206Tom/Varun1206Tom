@@ -1,23 +1,31 @@
-👋Hi, I'm Varun Jangale
-Frontend Developer | React.js & Angular
-I’m a Frontend Developer specializing in React.js, Angular 14, and modern UI frameworks. I build responsive, scalable, and clean user interfaces with a focus on performance and usability.
-I’ve worked on admin panels, e-commerce platforms, SPAs, real-time features, vendor dashboards, and payment gateway integrations.
+Varun Jangale 👨‍💻
 
-🚀Tech Stack -
+Frontend Developer | React.js & Angular 14
+
+💡 About Me
+I build responsive, scalable, and high-performance user interfaces with a focus on clean design and seamless user experiences. Passionate about transforming complex requirements into intuitive digital solutions, I thrive in dynamic environments and enjoy tackling challenges in modern web development.
+
+🚀 Tech Stack
 Frontend: React.js, Angular 14, JavaScript (ES6+), HTML5, CSS3, SCSS
 UI Libraries: Material UI, CoreUI, Bootstrap, NGX Bootstrap
-Backend (Basics): Node.js, Express.js
+Backend: Node.js, Express.js
 Database: MongoDB
 Real-time: Socket.IO
 Payments: CCAvenue, Razorpay, Cashfree
 Tools: Git, GitHub, VS Code, Postman
 Other: Google Maps API, REST APIs, Figma
 
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varun1206Tom&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varun1206Tom&layout=compact" height="160"/>
-</p>
+🛠️ Projects & Experience
+I've delivered impactful solutions across diverse domains:
+• Admin Panels & Dashboards – Scalable interfaces for data visualization and management
+• E-commerce Platforms – Feature-rich, responsive shopping experiences
+• SPAs & Real-time Apps – Live updates with Socket.IO for dynamic user interaction
+• Payment Systems – Secure integrations with payment gateways and third-party APIs
 
-📫 Contact Me - 
-📧 varunrameshjangale93@gmail.com
-📱 +91 73497 93037
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varun1206Tom&show_icons=true&theme=radical" height="160" /> &nbsp;&nbsp; <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varun1206Tom&layout=compact&theme=radical" height="160" /> </p>
+
+📬 Contact Me
+📧 Email: varunrameshjangale93@gmail.com
+📱 Phone: +91 73497 93037 / 7996456993
+💼 GitHub: github.com/Varun1206Tom
