@@ -2,6 +2,8 @@ Varun Jangale 👨‍💻
 
 Frontend Developer | React.js & Angular 14
 
+🌐 Portfolio: https://capable-genie-d55bc5.netlify.app/
+
 💡 About Me
 I build responsive, scalable, and high-performance user interfaces with a focus on clean design and seamless user experiences. Passionate about transforming complex requirements into intuitive digital solutions, I thrive in dynamic environments and enjoy tackling challenges in modern web development.
 
