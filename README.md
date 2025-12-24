@@ -29,5 +29,5 @@ I've delivered impactful solutions across diverse domains:
 
 📬 Contact Me
 📧 Email: varunrameshjangale93@gmail.com
-📱 Phone: +91 73497 93037 / 7996456993
+📱 Phone: +91 7349793037 / 7996456993
 💼 GitHub: github.com/Varun1206Tom
