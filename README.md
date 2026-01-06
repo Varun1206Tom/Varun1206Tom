@@ -1,6 +1,13 @@
-<!-- HERO SECTION -->
-<h1 align="center">✨ Varun Jangale ✨</h1>
-<h3 align="center">Frontend Developer | React.js & Angular 14 | 2+ Years Experience</h3>
+<!-- ===================== HERO SECTION ===================== -->
+<h1 align="center">Hi 👋, I'm Varun Jangale</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+%7C+Angular+14;2%2B+Years+Professional+Experience;Building+Clean+%26+Scalable+UIs" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Frontend%20Developer&fontSize=40&fontAlignY=35&desc=React.js%20%7C%20Angular%2014%20%7C%202%2B%20Years%20Experience&descAlignY=55" />
+</p>
 
 <p align="center">
   <a href="https://capable-genie-d55bc5.netlify.app/" target="_blank">
@@ -16,68 +23,74 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-> 💡 Frontend Developer with **2+ years of professional experience** crafting  
-> **scalable, responsive, and high-performance web applications**.
+Frontend Developer with **2+ years of professional experience** building  
+**high-performance, scalable, and user-centric web applications**.
 
-I love transforming **complex ideas into elegant user experiences**.  
-Clean UI, smooth UX, and performance-first development are my priorities.
+I specialize in transforming **complex requirements into elegant, intuitive UIs**.  
+My focus is on **clean architecture, performance, and delightful user experiences**.
 
-✨ **What I bring to the table**
-- Pixel-perfect UI implementation  
-- Scalable frontend architecture  
-- Real-world production experience  
-- Strong problem-solving mindset  
+✔ Clean & maintainable code  
+✔ Pixel-perfect UI  
+✔ Production-ready applications  
+✔ Modern frontend best practices  
 
 ---
 
-## 🧠 Tech Stack
+## 🚀 Tech Stack
 
-### ⚛️ Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/SCSS-pink?style=flat-square&logo=sass"/>
-</p>
-
-### 🎨 UI Libraries
-<p>
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui"/>
-  <img src="https://img.shields.io/badge/CoreUI-4F5D73?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap"/>
-</p>
-
-### ⚙️ Backend & Tools
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,js,html,css,sass,nodejs,express,mongodb,git,github,figma,postman" />
 </p>
 
 ---
 
-## 🛠️ What I’ve Built
+## 🛠️ What I Build
 
-🔹 **Admin Panels & Dashboards**  
-→ Scalable layouts, filters, analytics & role-based access
+### 📊 Admin Panels & Dashboards
+- Scalable layouts with reusable components  
+- Filters, tables, charts & analytics  
+- Role-based access and optimized performance  
 
-🔹 **E-commerce Platforms**  
-→ Product flows, coupons, pricing logic & checkout experience
+### 🛒 E-commerce Platforms
+- Responsive shopping experiences  
+- Coupons, pricing logic & checkout flows  
+- Secure payment gateway integrations  
 
-🔹 **Real-time Applications**  
-→ Live chat, notifications & updates using Socket.IO
+### ⚡ SPAs & Real-Time Applications
+- Live updates using **Socket.IO**  
+- Smooth SPA navigation  
+- Optimized API handling  
 
-🔹 **Payment Integrations**  
-→ Razorpay, Cashfree, CCAvenue (secure & production-ready)
+### 💳 Payment Integrations
+- Razorpay, Cashfree & CCAvenue  
+- Secure transactions & third-party APIs  
 
 ---
 
-## 📊 GitHub Analytics
+## 📌 Featured Projects
+
+### 🛒 E-Commerce Web App
+- React-based scalable frontend  
+- Payment & coupon integrations  
+- Fully responsive UI  
+
+### 📊 Admin Dashboard
+- Angular & React dashboards  
+- Data visualization & management  
+- Performance-optimized UI  
+
+### 💬 Real-Time Chat App
+- Socket.IO powered live messaging  
+- Clean SPA architecture  
+- Mobile-friendly design  
+
+👉 **(Pin these projects on your GitHub profile)**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varun1206Tom&show_icons=true&theme=radical" height="160"/>
@@ -87,16 +100,15 @@ Clean UI, smooth UX, and performance-first development are my priorities.
 
 ---
 
-## 📬 Let’s Connect
+## 📬 Contact Me
 
-<p align="center">
-  📧 <b>Email:</b> varunrameshjangale93@gmail.com <br/>
-  📱 <b>Phone:</b> +91 7349793037 / 7996456993 <br/>
-  🌐 <b>Portfolio:</b> <a href="https://capable-genie-d55bc5.netlify.app/">View Work</a>
-</p>
+📧 **Email:** varunrameshjangale93@gmail.com  
+📱 **Phone:** +91 7349793037 / 7996456993  
+🌐 **Portfolio:** https://capable-genie-d55bc5.netlify.app/  
+💼 **GitHub:** https://github.com/Varun1206Tom  
 
 ---
 
 <p align="center">
-  ⭐ <b>If you like my work, drop a star — it motivates me!</b>
+  ⭐ <b>If you like my work, consider starring my repositories!</b>
 </p>
