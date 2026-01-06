@@ -86,8 +86,6 @@ My focus is on **clean architecture, performance, and delightful user experience
 - Clean SPA architecture  
 - Mobile-friendly design  
 
-👉 **(Pin these projects on your GitHub profile)**
-
 ---
 
 ## 📊 GitHub Stats
