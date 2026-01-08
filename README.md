@@ -81,7 +81,7 @@ My focus is on **clean architecture, performance, and delightful user experience
 - Data visualization & management  
 - Performance-optimized UI  
 
-### 💬 Real-Time Chat App
+### 💬 Online Ordering Cafe Website
 - Socket.IO powered live messaging  
 - Clean SPA architecture  
 - Mobile-friendly design  
