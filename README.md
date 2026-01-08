@@ -107,6 +107,6 @@ My focus is on **clean architecture, performance, and delightful user experience
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   ⭐ <b>If you like my work, consider starring my repositories!</b>
-</p>
+</p> -->
