@@ -54,9 +54,9 @@ My focus is on **clean architecture, performance, and delightful user experience
 - Role-based access and optimized performance  
 
 ### 🛒 E-commerce Platforms
-- Responsive shopping experiences  
-- Coupons, pricing logic & checkout flows  
-- Secure payment gateway integrations  
+- Responsive shopping experiences
+- Coupons, pricing logic & checkout flows
+- Secure payment gateway integrations
 
 ### ⚡ SPAs & Real-Time Applications
 - Live updates using **Socket.IO**  
@@ -101,7 +101,7 @@ My focus is on **clean architecture, performance, and delightful user experience
 ## 📬 Contact Me
 
 📧 **Email:** varunrameshjangale93@gmail.com  
-📱 **Phone:** +91 7349793037 
+📱 **Phone:** +91 7349793037 / 7996456993
 🌐 **Portfolio:** https://capable-genie-d55bc5.netlify.app/  
 💼 **GitHub:** https://github.com/Varun1206Tom  
 
