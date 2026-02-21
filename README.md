@@ -101,7 +101,7 @@ My focus is on **clean architecture, performance, and delightful user experience
 ## 📬 Contact Me
 
 📧 **Email:** varunrameshjangale93@gmail.com  
-📱 **Phone:** +91 7349793037 / 7996456993
+📱 **Phone:** +91 7349793037
 🌐 **Portfolio:** https://capable-genie-d55bc5.netlify.app/  
 💼 **GitHub:** https://github.com/Varun1206Tom  
 
