@@ -79,12 +79,12 @@ My focus is on **clean architecture, performance, and delightful user experience
 ### 📊 Admin Dashboard
 - Angular & React dashboards  
 - Data visualization & management  
-- Performance-optimized UI  
+- Performance-optimized UI.
 
 ### 💬 Online Ordering Cafe Website
 - Socket.IO powered live messaging  
 - Clean SPA architecture  
-- Mobile-friendly design  
+- Mobile-friendly design.
 
 ---
 
