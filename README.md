@@ -72,18 +72,18 @@ My focus is on **clean architecture, performance, and delightful user experience
 ## 📌 Featured Projects
 
 ### 🛒 E-Commerce Web App
-- React-based scalable frontend  
-- Payment & coupon integrations  
+- React-based scalable frontend.
+- Payment & coupon integrations.
 - Fully responsive UI.
 
 ### 📊 Admin Dashboard
-- Angular & React dashboards  
-- Data visualization & management  
+- Angular & React dashboards.
+- Data visualization & management.
 - Performance-optimized UI.
 
 ### 💬 Online Ordering Cafe Website
-- Socket.IO powered live messaging  
-- Clean SPA architecture  
+- Socket.IO powered live messaging. 
+- Clean SPA architecture.
 - Mobile-friendly design.
 
 ---
