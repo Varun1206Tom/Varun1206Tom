@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Varun Jangale</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+%7C+Redux+%7C+TypeScript;2%2B+Years+Professional+Experience;Building+AI-Integrated+Web+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+%7C+Redux+%7C+TypeScript;Gemini+LLM+Integration+%7C+Function+Calling;2%2B+Years+Professional+Experience;Building+AI-Integrated+Web+Apps" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 ## 👨‍💻 About Me
 
 Frontend Developer with **2+ years of professional experience** building  
-**high-performance, scalable, and user-centric web applications** — including AI-integrated features using the Gemini LLM API.
+**high-performance, scalable, and user-centric web applications** — including AI-integrated features using the **Gemini LLM API**.
 
 I specialize in transforming **complex requirements into elegant, intuitive UIs**.  
 My focus is on **clean architecture, performance, and delightful user experiences**.
@@ -34,7 +34,7 @@ My focus is on **clean architecture, performance, and delightful user experience
 ✔ Clean & maintainable code  
 ✔ Pixel-perfect UI  
 ✔ Production-ready applications  
-✔ AI-integrated frontend features  
+✔ **Gemini LLM integration with multi-step function-calling**  
 ✔ Modern frontend best practices  
 
 ---
@@ -45,14 +45,25 @@ My focus is on **clean architecture, performance, and delightful user experience
   <img src="https://skillicons.dev/icons?i=react,redux,ts,js,angular,html,css,sass,nodejs,express,mongodb,git,github,figma,postman" />
 </p>
 
+### 🤖 AI / LLM
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini_LLM_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Function_Calling-8E75B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-1F2933?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API_Orchestration-0F4C81?style=for-the-badge" />
+</p>
+
 ---
 
 ## 🛠️ What I Build
 
-### 🤖 AI-Integrated Features
+### 🤖 AI-Integrated Features (Gemini LLM)
 - Gemini LLM chatbot integration into production admin panels
 - Multi-step API orchestration & function-calling schemas
-- Graceful error handling for AI-generated responses
+- Prompt engineering for context-aware, workflow-driven conversations
+- Frontend logic to parse and render AI-generated responses
+- Graceful error handling and fallback flows for unpredictable AI output
 
 ### 📊 Admin Panels & Dashboards
 - Scalable layouts with reusable components  
@@ -78,9 +89,11 @@ My focus is on **clean architecture, performance, and delightful user experience
 ## 📌 Featured Projects
 
 ### 💬 AI Chatbot Integration — Xpanse Admin Panel
+**Stack:** Gemini LLM API, React.js, REST APIs
 - Gemini-LLM-powered chatbot for internal workflows.
 - Multi-step API orchestration & function-calling schemas.
-- Robust error handling for unpredictable AI responses.
+- Context-aware conversations with response parsing inside existing admin workflows.
+- Robust error handling and fallback flows for unpredictable AI responses.
 
 ### 🛒 E-Commerce Web App
 - React-based scalable frontend.
