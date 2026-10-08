@@ -1,136 +1,104 @@
-<!-- ===================== HERO SECTION ===================== -->
-<h1 align="center">Hi 👋, I'm Varun Jangale</h1>
+<h1 align="center">Varun Jangale</h1>
+<h3 align="center">Frontend Engineer · React · TypeScript · AI-integrated web apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+%7C+Redux+%7C+TypeScript;Gemini+LLM+Integration+%7C+Function+Calling;2%2B+Years+Professional+Experience;Building+AI-Integrated+Web+Apps" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=120&section=header&text=&fontSize=0" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Frontend%20Developer&fontSize=40&fontAlignY=35&desc=React.js%20%7C%20Redux%20%7C%20Gemini%20LLM%20Integration&descAlignY=55" />
-</p>
-
-<p align="center">
-  <a href="https://capable-genie-d55bc5.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=netlify" />
-  </a>
-  <a href="https://github.com/Varun1206Tom" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:varunrameshjangale93@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <a href="https://capable-genie-d55bc5.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
+  <a href="mailto:varunrameshjangale93@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://github.com/Varun1206Tom"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Goa%2C%20India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-Frontend Developer with **2+ years of professional experience** building  
-**high-performance, scalable, and user-centric web applications** — including AI-integrated features using the **Gemini LLM API**.
+Frontend engineer with **2+ years of production experience** at Bex Technologies, building admin platforms, e-commerce flows and real-time apps in **React** and **Angular**.
 
-I specialize in transforming **complex requirements into elegant, intuitive UIs**.  
-My focus is on **clean architecture, performance, and delightful user experiences**.
+I care about maintainable component architecture, predictable state, and shipping UIs that hold up in production. Recently I've been integrating **LLMs (Gemini) with multi-step function-calling** into existing product workflows.
 
-✔ Clean & maintainable code  
-✔ Pixel-perfect UI  
-✔ Production-ready applications  
-✔ **Gemini LLM integration with multi-step function-calling**  
-✔ Modern frontend best practices  
+- Component-driven UIs with reusable, typed building blocks
+- State and data layers with Redux Toolkit and REST APIs
+- Real-time features with Socket.IO
+- Payment gateway integrations: Razorpay, Cashfree, CCAvenue
+- LLM features: function-calling schemas, response parsing, fallback flows
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
+
+| Area | Tools |
+|---|---|
+| **Frontend** | React.js, Angular, Redux Toolkit, TypeScript, JavaScript (ES6+) |
+| **UI** | Material UI, Bootstrap, SCSS, HTML5, CSS3, responsive design |
+| **Backend** | Node.js, Express, MongoDB, REST APIs, JWT auth, Socket.IO |
+| **AI / LLM** | Gemini API, function-calling, prompt engineering, API orchestration |
+| **Tooling** | Git, GitHub, Postman, Figma, Netlify |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,angular,html,css,sass,nodejs,express,mongodb,git,github,figma,postman" />
-</p>
-
-### 🤖 AI / LLM
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Gemini_LLM_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Function_Calling-8E75B2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-1F2933?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API_Orchestration-0F4C81?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,angular,html,css,sass,bootstrap,materialui,nodejs,express,mongodb,git,github,figma,postman&perline=9" />
 </p>
 
 ---
 
-## 🛠️ What I Build
+## Featured Projects
 
-### 🤖 AI-Integrated Features (Gemini LLM)
-- Gemini LLM chatbot integration into production admin panels
-- Multi-step API orchestration & function-calling schemas
-- Prompt engineering for context-aware, workflow-driven conversations
-- Frontend logic to parse and render AI-generated responses
-- Graceful error handling and fallback flows for unpredictable AI output
+### AI Job Application Agent
+Reads job posts from Gmail, scores them against a profile with Gemini, drafts a tailored email and applies automatically, with a review queue, daily cap and duplicate protection.
 
-### 📊 Admin Panels & Dashboards
-- Scalable layouts with reusable components  
-- Filters, tables, charts & analytics  
-- Role-based access, JWT refresh token auth, and optimized performance  
+`Node.js` `TypeScript` `Gemini API` `MongoDB Atlas` `Nodemailer` `IMAP`
+[Repository →](https://github.com/Varun1206Tom/job-agent)
 
-### 🛒 E-commerce Platforms
-- Responsive shopping experiences
-- Coupons, pricing logic & checkout flows
-- Secure payment gateway integrations
+### Xpanse Admin Platform · AI Chatbot
+Gemini-powered chatbot inside a production admin panel for internal workflows.
+- Multi-step API orchestration with function-calling schemas
+- Context-aware conversations and response parsing inside existing flows
+- Error handling and fallback paths for unpredictable model output
 
-### ⚡ SPAs & Real-Time Applications
-- Live updates using **Socket.IO**  
-- Smooth SPA navigation  
-- Optimized API handling  
+`React.js` `Gemini API` `REST APIs`
 
-### 💳 Payment Integrations
-- Razorpay, Cashfree & CCAvenue  
-- Secure transactions & third-party APIs  
+### E-Commerce Web App
+Scalable React storefront with coupon and pricing logic, checkout flows and secure payment gateway integrations. Fully responsive.
 
----
+`React.js` `Redux Toolkit` `Razorpay` `Cashfree` `CCAvenue`
 
-## 📌 Featured Projects
+### Admin Dashboards
+Angular and React dashboards with data tables, filters, charts, role-based access and JWT refresh-token auth, tuned for performance.
 
-### 💬 AI Chatbot Integration — Xpanse Admin Panel
-**Stack:** Gemini LLM API, React.js, REST APIs
-- Gemini-LLM-powered chatbot for internal workflows.
-- Multi-step API orchestration & function-calling schemas.
-- Context-aware conversations with response parsing inside existing admin workflows.
-- Robust error handling and fallback flows for unpredictable AI responses.
+`Angular` `React.js` `Material UI` `JWT`
 
-### 🛒 E-Commerce Web App
-- React-based scalable frontend.
-- Payment & coupon integrations.
-- Fully responsive UI.
+### Online Ordering Cafe Website
+Single-page ordering app with real-time order updates over Socket.IO and a mobile-first layout.
 
-### 📊 Admin Dashboard
-- Angular & React dashboards.
-- Data visualization & management.
-- Performance-optimized UI.
-
-### 🍽️ Online Ordering Cafe Website
-- Socket.IO powered real-time order updates. 
-- Clean SPA architecture.
-- Mobile-friendly design.
+`React.js` `Socket.IO` `Node.js`
 
 ---
 
-## 📊 GitHub Stats
+## Experience
+
+**Frontend Developer** · Bex Technologies Pvt Ltd · Dec 2023 – Present
+React and Angular applications: admin panels, e-commerce, real-time apps, payment integrations and LLM-powered features.
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varun1206Tom&show_icons=true&theme=radical" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varun1206Tom&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varun1206Tom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varun1206Tom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" height="165" />
 </p>
 
 ---
 
-## 📬 Contact Me
+## Contact
 
-📧 **Email:** varunrameshjangale93@gmail.com  
-📱 **Phone:** +91 7349793037  
-🌐 **Portfolio:** https://capable-genie-d55bc5.netlify.app/  
-💼 **GitHub:** https://github.com/Varun1206Tom  
+- **Email:** varunrameshjangale93@gmail.com
+- **Portfolio:** https://capable-genie-d55bc5.netlify.app/
+- **GitHub:** https://github.com/Varun1206Tom
 
----
-
-<!-- <p align="center">
-  ⭐ <b>If you like my work, consider starring my repositories!</b>
-</p> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:0f172a&height=80&section=footer" width="100%" />
+</p>
