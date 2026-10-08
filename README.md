@@ -81,11 +81,11 @@ React and Angular applications: admin panels, e-commerce, real-time apps, paymen
 
 ---
 
-## GitHub
+## GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Varun1206Tom?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a&color=1e3a8a" />
-  <img src="https://komarev.com/ghpvc/?username=Varun1206Tom&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0f172a&color=1e3a8a" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varun1206Tom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varun1206Tom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" height="165" />
 </p>
 
 ---
