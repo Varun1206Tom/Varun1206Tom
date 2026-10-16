@@ -13,7 +13,7 @@
 
 ## About
 
-Frontend engineer with **2+ years of production experience** at Bex Technologies, building admin platforms, e-commerce flows and real-time apps in **React** and **Angular**.
+Frontend engineer with **3 years of production experience** at Bex Technologies, building admin platforms, e-commerce flows and real-time apps in **React** and **Angular**.
 
 I care about maintainable component architecture, predictable state, and shipping UIs that hold up in production. Recently I've been integrating **LLMs (Gemini) with multi-step function-calling** into existing product workflows.
 
@@ -77,7 +77,7 @@ Single-page ordering app with real-time order updates over Socket.IO and a mobil
 ## Experience
 
 **Frontend Developer** · Bex Technologies Pvt Ltd · Dec 2023 – Present
-React and Angular applications: admin panels, e-commerce, real-time apps, payment integrations and LLM-powered features.
+React and Angular applications: admin panels, e-commerce, web view apps, payment integrations and LLM-powered features.
 
 ---
 
