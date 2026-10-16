@@ -29,8 +29,8 @@ I care about maintainable component architecture, predictable state, and shippin
 
 | Area | Tools |
 |---|---|
-| **Frontend** | React.js, Angular, Redux Toolkit, TypeScript, JavaScript (ES6+) |
-| **UI** | Material UI, Bootstrap, SCSS, HTML5, CSS3, responsive design |
+| **Frontend** | React.js, Angular, Redux Toolkit, TypeScript, JavaScript (ES6+), Vue.js |
+| **UI** | Material UI, Bootstrap, SCSS, HTML5, CSS3, Tailwind Css, responsive design |
 | **Backend** | Node.js, Express, MongoDB, REST APIs, JWT auth, Socket.IO |
 | **AI / LLM** | Gemini API, function-calling, prompt engineering, API orchestration |
 | **Tooling** | Git, GitHub, Postman, Figma, Netlify |
